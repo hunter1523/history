@@ -1,0 +1,82 @@
+﻿
+### k_zhao_china
+    ## d_chengde_china
+        # c_zhaozhou_china
+            11995 = { # b_zhaozhoupingji_china
+                religion = zhengyi
+                culture = han
+            }
+            11975 = { # b_baixiang_china
+            }
+        # c_jizhou_zhao_china
+            11983 = { # b_jizhou_xindu_china
+                religion = zhengyi
+                culture = han
+            }
+            11950 = { # b_nangong_jingcheng_china
+            }
+            12009 = { # b_hengshui_china
+            }
+        # c_shenzhou_hebei_china
+            12006 = { # b_shenzhouluze_china
+                religion = zhengyi
+                culture = han
+            }
+            12044 = { # b_raoyang_china
+            }
+        # c_hengzhou_china
+            12030 = { # b_hengzhouzhending_china
+                religion = zhengyi
+                culture = han
+            }
+            12027 = { # b_jingxing_china
+            }
+            12056 = { # b_lingshou_xingtang_china
+            }
+    ## d_xingci_china
+        # c_xingzhou_china
+            11923 = { # b_xingzhoulonggang_china
+                religion = zhengyi
+                culture = han
+            }
+            11934 = { # b_julu_china
+            }
+        # c_cizhou_china
+            11803 = { # b_cizhoufuyang_china
+                religion = zhengyi
+                culture = han
+            }
+            11802 = { # b_yexian_china
+            }
+        # c_mingzhou_hebei_china
+            11895 = { # b_mingzhouyongnian_china
+                religion = zhengyi
+                culture = han
+            }
+            11894 = { # b_handan_china
+            }
+    ## d_zelu_china
+        # c_luzhou_jin_china
+            11798 = { # b_shangdang_china
+                religion = zhengyi
+                culture = han
+            }
+            11887 = { # b_yaoguling_china
+            }
+            11873 = { # b_xiangyuan_china
+            }
+            11799 = { # b_shexian_china
+            }
+            11797 = { # b_tunliu_china
+            }
+        # c_zezhou_china
+            12925 = { # b_zezhou_china
+                religion = zhengyi
+                culture = han
+            }
+            12973 = { # b_changpingguan_china
+            }
+            12952 = { # b_duanshi_china
+            }
+            12924 = { # b_yangcheng_china
+            }

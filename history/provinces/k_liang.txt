@@ -1,0 +1,142 @@
+﻿
+### k_liang_china
+    ## d_biansong_china
+        # c_bianzhou_china
+            12869 = { # b_kaifeng_bianzhou_china
+                religion = zenzong
+                culture = han
+
+                holding = castle_holding
+
+                960.1.1 = {
+                    buildings = { castle_04 }
+                }
+
+                special_building = china_grand_canal_01
+            }
+            12807 = { # b_chenliu_china
+            }
+            12817 = { # b_yongqiu_china
+            }
+            12796 = { # b_weishi_china
+            }
+        # c_songzhou_song_china
+            12776 = { # b_songcheng_china
+                religion = zenzong
+                culture = han
+
+                holding = castle_holding
+
+                # Yingtianfu Academy
+                special_building_slot = generic_university
+                1009.1.1 = {
+                    special_building = generic_university
+                }
+            }
+            12844 = { # b_chuqiu_china
+                holding = city_holding
+
+                special_building = china_grand_canal_01
+            }
+            12791 = { # b_dangshan_china
+                holding = church_holding
+
+                special_building = china_grand_canal_01
+            }
+            12769 = { # b_xiangyi_zhecheng_china
+            }
+        # c_bozhou_song_china
+            12710 = { # b_bozhou_qiaoxian_china
+                religion = zenzong
+                culture = han
+
+                holding = castle_holding
+            }
+            12734 = { # b_yongcheng_mapu_china
+                holding = city_holding
+
+                special_building = china_grand_canal_01
+            }
+            12675 = { # b_mengcheng_shansang_china
+            }
+            12722 = { # b_taiqinggong_china
+            }
+        # c_yingzhou_song_china
+            12643 = { # b_yingzhou_ruyin_china
+                religion = zenzong
+                culture = han
+            }
+            12627 = { # b_xiacai_china
+            }
+            12626 = { # b_yingshang_china
+            }
+    ## d_pucao_china
+        # c_puzhou_liang_china
+            12941 = { # b_puzhou_juancheng_china
+                religion = zenzong
+                culture = han
+            }
+            12951 = { # b_puyang_china
+            }
+        # c_yunzhou_liang_china
+            12978 = { # b_yunzhou_xuchang_china
+                religion = zenzong
+                culture = han
+            }
+            12954 = { # b_yuncheng_china
+            }
+            12915 = { # b_liangshanpo_yuncheng_china
+            }
+        # c_jizhou_liang_china
+            11826 = { # b_donge_china
+                religion = zenzong
+                culture = han
+            }
+            11828 = { # b_changqing_china
+            }
+        # c_caozhou_china
+            12840 = { # b_caozhou_jiyin_china
+                religion = zenzong
+                culture = han
+
+                special_building = china_grand_canal_01
+            }
+            12907 = { # b_shengshi_lihu_china
+            }
+    ## d_xusi_china
+        # c_xuzhou_xu_china
+            12771 = { # b_xuzhou_pengcheng_china
+                religion = zenzong
+                culture = han
+            }
+            12874 = { # b_tengxian_china
+            }
+            12828 = { # b_feixian_fengxian_china
+            }
+            12741 = { # b_xiapi_china
+            }
+        # c_suzhou_xu_china
+            12658 = { # b_fuli_suzhou_china
+                religion = zenzong
+                culture = han
+
+                holding = castle_holding
+
+                special_building = china_grand_canal_01
+            }
+            12666 = { # b_hongxian_xiaqiu_china
+                holding = city_holding
+
+                special_building = china_grand_canal_01
+            }
+        # c_sizhou_xu_china
+            12672 = { # b_sizhou_linhuai_china
+                religion = zenzong
+                culture = han
+
+                holding = castle_holding
+
+                special_building = china_grand_canal_01
+            }
+            12725 = { # b_lianshui_china
+            }
